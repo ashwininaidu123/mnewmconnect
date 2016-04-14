@@ -1,0 +1,11 @@
+<loader version="1.0" >
+<application id="Mconnectblackberry">
+<name>Mconnect blackberry</name>
+<description>A sample application written with PhoneGap.</description>
+<version>1.0.0.0</version>
+<fileset Java="1.45">
+<directory></directory>
+<files>Mconnectblackberry.cod</files>
+</fileset>
+</application>
+</loader>

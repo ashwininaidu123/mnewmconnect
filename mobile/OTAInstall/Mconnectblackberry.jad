@@ -1,0 +1,75 @@
+RIM-COD-SHA1-9: 01 a2 65 14 f0 bc 09 1e fe 3e fe 89 cd 27 b6 bd 96 8a c7 68
+RIM-COD-SHA1-8: e3 4a 00 f1 62 a5 6c 2b 08 f6 1b 8a 71 30 b2 56 c4 35 bf 83
+RIM-COD-SHA1-7: 50 c8 f2 72 b0 20 34 42 c3 e6 d7 22 b3 7d 9d 95 86 ff 23 7f
+RIM-COD-SHA1-6: 7c 9a a2 12 0f c6 e3 f4 2a e9 99 3c ce d8 fc cb db 60 2a 33
+RIM-COD-SHA1-5: a0 7f d4 3d aa 20 67 30 a1 06 10 b3 50 21 4c fd 57 3c 18 af
+RIM-COD-SHA1-4: 31 4b 7c bc 2c b1 b3 ac 75 65 31 30 fa 28 1a 70 8e 2f 2c 01
+RIM-COD-SHA1-3: 3f 56 17 f6 68 e7 0b cc 35 9e fd d9 66 b6 d9 71 60 57 6e c3
+RIM-COD-SHA1-2: 5d 9d 80 c6 7d 33 d4 3d 4e dd ef 1f 12 b7 e8 fb 6d 21 69 0a
+RIM-COD-SHA1-1: cd 8c 3a 72 70 6d 3d bb 94 1d 0c c5 3d ce ea a4 9c 74 50 20
+RIM-COD-URL-18: Mconnectblackberry-18.cod
+RIM-COD-URL-17: Mconnectblackberry-17.cod
+RIM-COD-URL-16: Mconnectblackberry-16.cod
+RIM-COD-URL-15: Mconnectblackberry-15.cod
+RIM-COD-URL-14: Mconnectblackberry-14.cod
+RIM-COD-URL-13: Mconnectblackberry-13.cod
+RIM-COD-URL-12: Mconnectblackberry-12.cod
+RIM-COD-Size: 62668
+RIM-MIDlet-Icon-2-1: ____HOVER_ICON_resources/icon_hover.png,focused
+RIM-COD-URL-11: Mconnectblackberry-11.cod
+RIM-MIDlet-Icon-Count-2: 1
+RIM-COD-URL-10: Mconnectblackberry-10.cod
+RIM-MIDlet-Icon-Count-1: 1
+MIDlet-Vendor: Unknown
+RIM-MIDlet-Icon-1-1: resources\____HOVER_ICON_icon_hover.png,focused
+Manifest-Version: 1.0
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Size-18: 50224
+RIM-COD-Size-17: 50224
+RIM-COD-Size-16: 56028
+RIM-COD-Size-15: 50248
+RIM-COD-Size-14: 50464
+RIM-COD-Size-13: 55764
+RIM-COD-Size-12: 41916
+RIM-COD-Size-11: 51076
+RIM-COD-Size-10: 51748
+MIDlet-Version: 1.0.0.0
+MicroEdition-Profile: MIDP-2.0
+RIM-COD-URL: Mconnectblackberry.cod
+RIM-COD-Creation-Time: 1317105970
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: Mconnectblackberry.jar
+RIM-COD-SHA1-18: 44 47 01 88 70 a5 25 78 54 42 f7 f6 e1 a5 c2 1b f5 05 bc 00
+RIM-COD-SHA1-17: cf c7 0c f2 51 1b bc f5 ca 20 e7 b9 95 39 a2 30 c0 cf 88 0a
+RIM-COD-SHA1-16: ae d1 a9 81 5d b5 91 6d 08 30 17 51 ac 0a 3f 0f bb b0 d4 99
+RIM-COD-SHA1-15: e4 e2 48 b5 33 c1 5d eb 08 16 e4 91 e3 4c d6 c6 a2 14 d8 bc
+RIM-COD-SHA1-14: 86 1f 13 39 d3 2e 17 c3 52 f9 31 98 ac fa 1a ff 3c 14 29 d8
+RIM-COD-SHA1-13: c5 77 1c 67 1e 7d d9 85 90 e4 e1 51 e2 d4 4f c9 a1 79 e9 a3
+RIM-COD-SHA1-12: 78 5e 50 c3 76 31 74 43 18 14 d9 69 7a 34 d5 10 a9 9d c7 32
+RIM-COD-Size-9: 51416
+RIM-COD-SHA1-11: 3a 6a 7e 8f 12 60 a3 2f bc a9 b1 3f 42 fc 04 7b 69 e5 50 5f
+RIM-COD-Size-8: 50296
+RIM-COD-SHA1-10: ca 54 ff b3 af 62 10 6e b8 b3 6d 50 4d f9 76 71 c3 5d f8 a4
+RIM-COD-Size-7: 57372
+MIDlet-Description: A sample application written with PhoneGap.
+RIM-COD-Size-6: 50224
+RIM-COD-Size-5: 41168
+RIM-COD-Size-4: 45120
+RIM-COD-Size-3: 26836
+RIM-COD-Size-2: 77968
+RIM-COD-Size-1: 78336
+MIDlet-1: Mconnect blackberry,resources/icon.png,rim:foreground;WIDGET;
+MIDlet-Name: Mconnect blackberry
+RIM-COD-SHA1: 3f f2 84 71 c6 91 80 6f dc 0e dc b0 39 61 20 22 e7 99 dd a4
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bb_web_jse_api,net_rim_xml_org,net_rim_bb_browser_field2_api,net_rim_os,net_rim_bbapi_phone,net_rim_bbapi_mailv2,net_rim_bbapi_push,net_rim_bbapi_messagelist,net_rim_pdap,net_rim_networkapi,net_rim_bb_browser_field_api,net_rim_bbapi_browser,net_rim_bbapi_invoke,net_rim_locationapi,net_rim_xml
+MIDlet-Jar-Size: 1397228
+RIM-COD-URL-9: Mconnectblackberry-9.cod
+RIM-COD-URL-8: Mconnectblackberry-8.cod
+RIM-COD-URL-7: Mconnectblackberry-7.cod
+RIM-COD-URL-6: Mconnectblackberry-6.cod
+RIM-COD-URL-5: Mconnectblackberry-5.cod
+RIM-COD-URL-4: Mconnectblackberry-4.cod
+RIM-COD-URL-3: Mconnectblackberry-3.cod
+RIM-COD-URL-2: Mconnectblackberry-2.cod
+RIM-COD-URL-1: Mconnectblackberry-1.cod
+RIM-COD-Module-Name: Mconnectblackberry

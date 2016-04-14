@@ -1,0 +1,65 @@
+MIDlet-Name: Mconnect blackberry
+RIM-MIDlet-Icon-Count-2: 1
+RIM-MIDlet-Icon-Count-1: 1
+MIDlet-Vendor: Unknown
+RIM-MIDlet-Icon-1-1: resources\____HOVER_ICON_icon_hover.png,focused
+Manifest-Version: 1.0
+RIM-MIDlet-Flags-1: 0
+MIDlet-Version: 1.0.0.0
+RIM-COD-Module-Name: Mconnectblackberry
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Jar-URL: Mconnectblackberry.jar
+MIDlet-Description: A sample application written with PhoneGap.
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bb_web_jse_api,net_rim_xml_org,net_rim_bb_browser_field2_api,net_rim_os,net_rim_bbapi_phone,net_rim_bbapi_mailv2,net_rim_bbapi_push,net_rim_bbapi_messagelist,net_rim_pdap,net_rim_networkapi,net_rim_bb_browser_field_api,net_rim_bbapi_browser,net_rim_bbapi_invoke,net_rim_locationapi,net_rim_xml
+
+RIM-COD-URL-18: Mconnectblackberry-18.cod
+RIM-COD-URL-17: Mconnectblackberry-17.cod
+RIM-COD-URL-16: Mconnectblackberry-16.cod
+RIM-COD-URL-15: Mconnectblackberry-15.cod
+RIM-COD-URL-14: Mconnectblackberry-14.cod
+RIM-COD-URL-13: Mconnectblackberry-13.cod
+RIM-COD-URL-12: Mconnectblackberry-12.cod
+RIM-COD-URL-11: Mconnectblackberry-11.cod
+RIM-COD-URL-10: Mconnectblackberry-10.cod
+
+
+RIM-COD-Size-18: 50632
+RIM-COD-Size-17: 50632
+RIM-COD-Size-16: 56436
+RIM-COD-Size-15: 50656
+RIM-COD-Size-14: 50872
+RIM-COD-Size-13: 56172
+RIM-COD-Size-12: 42324
+RIM-COD-Size-11: 51484
+RIM-COD-Size-10: 52156
+
+RIM-COD-Size: 63076
+RIM-COD-URL: Mconnectblackberry.cod
+
+MicroEdition-Configuration: CLDC-1.1
+
+
+
+RIM-COD-Size-9: 51824
+RIM-COD-Size-8: 50704
+RIM-COD-Size-7: 57780
+RIM-COD-Size-6: 50632
+RIM-COD-Size-5: 41576
+RIM-COD-Size-4: 45528
+RIM-COD-Size-3: 27244
+RIM-COD-Size-2: 78376
+RIM-COD-Size-1: 78744
+MIDlet-1: Mconnect blackberry,resources/icon.png,rim:foreground;WIDGET;
+
+
+MIDlet-Jar-Size: 1397228
+RIM-COD-URL-9: Mconnectblackberry-9.cod
+RIM-COD-URL-8: Mconnectblackberry-8.cod
+RIM-COD-URL-7: Mconnectblackberry-7.cod
+RIM-COD-URL-6: Mconnectblackberry-6.cod
+RIM-COD-URL-5: Mconnectblackberry-5.cod
+RIM-COD-URL-4: Mconnectblackberry-4.cod
+RIM-COD-URL-3: Mconnectblackberry-3.cod
+RIM-COD-URL-2: Mconnectblackberry-2.cod
+RIM-COD-URL-1: Mconnectblackberry-1.cod
+
